@@ -1,16 +1,16 @@
-ASP.NET-MVC-CRM-Demo-App
-===========
+ASP.NET MVC CRM Demo App
+========================
 
-**Basic ASP.NT MVC 5 / EntityFramework 6 Proofs of Concept**
+**Basic ASP.NT MVC 5 / Entity Framework 6 Proofs of Concept**
 
-A basic image uploading application with CRUD (Create, Read, Update, Delete) example using ASP.Net, MVC 5, Entity Framework 6.
+A basic image uploading application with CRUD (Create, Read, Update, Delete) example using ASP.NET MVC 5, Entity Framework 6.
 
-###Client-side Concepts
+### Client-side Concepts
 
 * HTML Version
 * Basic CRUD
 * Bootstrap Styling
-* jQuery Framework
+* jQuery
 * Some Document On Load AJAX Calls (for detail tables)
 * Dropdown Triggered AJAX Call (on new / edit Activity form)
 * Partial Ajax Rendering
@@ -20,11 +20,11 @@ A basic image uploading application with CRUD (Create, Read, Update, Delete) exa
 * Built with Visual Studio 2013 Community
 * IIS 8 Express
 * Sql Express LocalDB
-* ASP.Net
-* EntityFramework 6
-* MS MVC 5
+* ASP.NET
+* ASP.NET MVC 5
+* Entity Framework 6
 * Razor Layouts
-* Razor HTML Pages
+* Razor Pages
 * Partial Views
 * One-to-Many Associations
 * Many-to-Many Association
@@ -38,6 +38,6 @@ A basic image uploading application with CRUD (Create, Read, Update, Delete) exa
 * Integrates Datatables.net
 * Raw SQL to Entities (Contacts List)
 
-This small app was developed to test out MS MVC and EntityFramework 6 for a simple business application like CRM.  There's nothing fancy about this application and the user interface is very basic.  Additional functionality may be added, time permitting.
+This small app was developed to test out ASP.NET MVC and Entity Framework 6 for a simple business application like CRM. There's nothing fancy about this application and the user interface is very basic. Additional functionality may be added, time permitting.
 
 This app is NOT production-quality. The code was developed for proof-of-concept only. Feel free to download, cut it up, use parts of it in any way desired.
